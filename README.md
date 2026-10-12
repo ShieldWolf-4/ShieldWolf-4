@@ -1,6 +1,6 @@
 # <div align="center">Hey! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Randal Heath.</div>
 
-### <div align="center">✍🏻Designer 🎥Video Prod. 🚀Developer</div>
+### <div align="center">✍🏻Graphic Design 🎥Video Prod. 🚀Web Development</div>
 
 <div align="center">
 
@@ -29,7 +29,7 @@ I have a passion for all things design, and always find a path forward, no matte
 
 | Illustrator  | Photoshop    | Indesign     | Premiere Pro | After Effects|
 | :----------: | :----------: | :----------: | :----------: | :----------: |
-| Resume       | My Website   | Email        | My Website   | Email        |
+| ![Adobe Illustrator Icon](AI-Icon.png)       | ![Adobe Photoshop Icon](PS-Icon.png)   | ![Adobe Indesign Icon](ID-Icon.png)        | ![Adobe Premiere Pro Icon](PR-Icon.png)   | ![Adobe After Effects Icon](AE-Icon.png)        |
 | Content      | Content      | Content      | Content      | Content      |
 
 | Figma        | HTML & CSS   | JavaScript   | WordPress    | Framer       |
