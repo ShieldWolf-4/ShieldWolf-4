@@ -20,12 +20,12 @@ Discover my work and connect with me on these platforms!
 
 ![](https://komarev.com/ghpvc/?username=shieldwolf-4&color=grey)
 
-## About Me
+## ⭐ About Me
 
 I am a freelance graphic designer who specializes in brand, logo, and web design, among other things.
 I have a passion for all things design, and always find a path forward, no matter the circumstance.
 
-## Software Skills
+### 🤖 Software Skills
 
 | Illustrator  | Photoshop    | Indesign     | Premiere Pro | After Effects|
 | :----------: | :----------: | :----------: | :----------: | :----------: |
@@ -37,17 +37,19 @@ I have a passion for all things design, and always find a path forward, no matte
 | Resume       | My Website   | Email        | My Website   | Email        |
 | Content      | Content      | Content      | Content      | Content      |
 
-## Accolades
+### 🏆 Accolades
 
-| Illustrator  | Photoshop    | Indesign     | Premiere Pro | After Effects|
+| Image        | Image        | Image        | Image        | Image        |
 | :----------: | :----------: | :----------: | :----------: | :----------: |
-| Resume       | My Website   | Email        | My Website   | Email        |
-| Content      | Content      | Content      | Content      | Content      |
+| 🗓️ 2024       | 🗓️2025   | 🗓️2025        | 🗓️2025   | 🗓️2026        |
+| NATAS NW Emmys Nominee      | NATAS NW Emmy Winner      | NATAS NW Emmy Winner      | ADDY's 2025 Winner - Cobalt      | ADDY's 2026 Winner - Lilac      |
 
-| Figma        | HTML & CSS   | JavaScript   | WordPress    |
+| Image        | Image        | Image        | Image        |
 | :----------: | :----------: | :----------: | :----------: |
-| Resume       | My Website   | Email        | My Website   |
-| Content      | Content      | Content      | Content      |
+| 🗓️ 2026      | 🗓️ 2026      | 🗓️ 2026     | 🗓️ 2026      |
+| ADDY's 2026 Winner - Silver      | ADDY's 2026 Winner - Silver       | ADDY's 2026 Winner - Silver       | ADDY's 2026 Winner - Gold       |
+
+## My Demo Reel
 
 [![Watch the video](https://img.youtube.com/vi/JvZQe1gLKng/maxresdefault.jpg)](https://www.youtube.com/watch?v=JvZQe1gLKng)
 
