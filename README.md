@@ -1,6 +1,6 @@
-# Hey! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Randal Heath.
+# <div align="center">Hey![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Randal Heath.</div>
 
-### ✍🏻Designer 🎥Video Prod. 🚀Developer
+### <div align="center">✍🏻Designer 🎥Video Prod. 🚀Developer</div>
 
 I am a freelance graphic designer who specializes in brand, logo, and web design, among other things.
 I have a passion for all things design, and always find a path forward, no matter the circumstance.
@@ -9,6 +9,20 @@ I have a passion for all things design, and always find a path forward, no matte
 * ✉️  Contact Me [Graphics@RandalHeath.Design](mailto:Graphics@RandalHeath.Design)
 * 📍  Spokane, WA
 * 🎓  EWU '28
+
+<div align="center">
+
+| Randal Heath | Portfolio Site  | Contact Me  |
+| :----------: | :----------: | :----------: |
+| Resume     | My Website   | Email       |
+| Content    | Content      | Content     |
+
+| Behance | LinkedIn | Instagram |
+| :----------: | :----------: | :----------: |
+| Behance    | LinkedIn     | Instagram   |
+| Content    | Content      | Content     |
+
+</div>
 
 <p align="left"> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" alt="Illustrator" title="Illustrator" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored-dark.svg" alt="After Effects" title="After Effects" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" alt="Premiere Pro" title="Premiere Pro" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a><a href="https://framer.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" alt="Framer" title="Framer" width="36" height="36" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="MacOS" title="MacOS" width="36" height="36" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" alt="Blender" title="Blender" width="36" height="36" /></a> </p> 
  
