@@ -49,7 +49,7 @@ I have a passion for all things design, and always find a path forward, no matte
 | Resume       | My Website   | Email        | My Website   |
 | Content      | Content      | Content      | Content      |
 
-[![Watch the video](https://www.youtube.com/watch?v=JvZQe1gLKng/maxresdefault.jpg)](https://www.youtube.com/watch?v=JvZQe1gLKng)
+[![Watch the video](https://img.youtube.com/watch?v=JvZQe1gLKng/maxresdefault.jpg)](https://www.youtube.com/watch?v=JvZQe1gLKng)
 
 ### [Watch this video on YouTube](https://www.youtube.com/watch?v=JvZQe1gLKng)
 
