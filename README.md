@@ -49,6 +49,8 @@ I have a passion for all things design, and always find a path forward, no matte
 | Resume       | My Website   | Email        | My Website   |
 | Content      | Content      | Content      | Content      |
 
-<div style="left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.25%;"><iframe src="https://www.youtube.com/embed/JvZQe1gLKng?rel=0" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="accelerometer *; clipboard-write *; encrypted-media *; gyroscope *; picture-in-picture *; web-share *;" referrerpolicy="strict-origin"></iframe></div>
+[![Watch the video](https://www.youtube.com/watch?v=JvZQe1gLKng/maxresdefault.jpg)](https://www.youtube.com/watch?v=JvZQe1gLKng)
+
+### [Watch this video on YouTube](https://www.youtube.com/watch?v=JvZQe1gLKng)
 
 </div>
