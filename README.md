@@ -1,8 +1,8 @@
-# <div align="center">
+<div align="center">
 
 ![Image with Randal Heath's logo and profile picture.](HeroImage.png)
 
-Hey! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Randal Heath.
+# Hey! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Randal Heath.
 
 </div>
 
@@ -63,6 +63,8 @@ I have a passion for all things design, and always find a path forward, no matte
 
 [![Watch the video](https://img.youtube.com/vi/JvZQe1gLKng/maxresdefault.jpg)](https://www.youtube.com/watch?v=JvZQe1gLKng)
 
-### [Watch this video on YouTube](https://www.youtube.com/watch?v=JvZQe1gLKng)
+### [Watch my demo reel on YouTube](https://www.youtube.com/watch?v=JvZQe1gLKng)
+
+## ⭐️ Let's get creative, [together!](https://www.randalheath.design/contact#contact-form)
 
 </div>
