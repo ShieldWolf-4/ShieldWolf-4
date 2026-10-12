@@ -16,7 +16,7 @@ Discover my work and connect with me on these platforms!
 | Behance | LinkedIn | Instagram |
 | :----------: | :----------: | :----------: |
 | ![Behance Icon](BE-Icon.png)    | ![LinkedIn Icon](LI-Icon.png)     | ![Instagram Icon](IG-Icon.png)   |
-| 🔗 [My Website](https://www.randalheath.design/)    | 🔗 [My Website](https://www.randalheath.design/)      | 🔗 [My Website](https://www.randalheath.design/)     |
+| 🔗 [Behance](https://www.behance.net/randalheath)    | 🔗 [LinkedIn](https://www.linkedin.com/in/randalheath/)      | 🔗 [Instagram](https://www.instagram.com/therandalheath/)     |
 
 ![](https://komarev.com/ghpvc/?username=shieldwolf-4&color=grey)
 
