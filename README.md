@@ -37,12 +37,12 @@ I have a passion for all things design, and always find a path forward, no matte
 
 ### 🏆 Accolades
 
-| Image        | Image        | Image        | Image        | Image        |
+| ![Award Icon](AW1-Icon.png)        | ![Award Icon](AW2-Icon.png)        | ![Award Icon](AW3-Icon.png)        | ![Award Icon](AW4-Icon.png)        | ![Award Icon](AW5-Icon.png)        |
 | :----------: | :----------: | :----------: | :----------: | :----------: |
 | 🗓️ 2024       | 🗓️2025   | 🗓️2025        | 🗓️2025   | 🗓️2026        |
 | NATAS NW Emmys Nominee      | NATAS NW Emmy Winner      | NATAS NW Emmy Winner      | ADDY's 2025 Winner - Cobalt      | ADDY's 2026 Winner - Lilac      |
 
-| Image        | Image        | Image        | Image        |
+| ![Award Icon](AW6-Icon.png)        | ![Award Icon](AW7-Icon.png)        | ![Award Icon](AW8-Icon.png)        | ![Award Icon](AW9-Icon.png)        |
 | :----------: | :----------: | :----------: | :----------: |
 | 🗓️ 2026      | 🗓️ 2026      | 🗓️ 2026     | 🗓️ 2026      |
 | ADDY's 2026 Winner - Silver      | ADDY's 2026 Winner - Silver       | ADDY's 2026 Winner - Silver       | ADDY's 2026 Winner - Gold       |
