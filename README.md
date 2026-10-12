@@ -11,12 +11,12 @@ Discover my work and connect with me on these platforms!
 | My Resume | My Website  | Contact Me  |
 | :----------: | :----------: | :----------: |
 | ![Resume Icon](RE-Icon.png)     | ![Website Icon](WE-Icon.png)   | ![Email Icon](EM-Icon.png)       |
-| Content    | Content      | Content     |
+| 🔗 Content    | 🔗 [My Website](https://www.randalheath.design/)      | 🔗 Content     |
 
 | Behance | LinkedIn | Instagram |
 | :----------: | :----------: | :----------: |
 | ![Behance Icon](BE-Icon.png)    | ![LinkedIn Icon](LI-Icon.png)     | ![Instagram Icon](IG-Icon.png)   |
-| Content    | Content      | Content     |
+| 🔗 Content    | 🔗 Content      | 🔗 Content     |
 
 ![](https://komarev.com/ghpvc/?username=shieldwolf-4&color=grey)
 
