@@ -30,12 +30,10 @@ I have a passion for all things design, and always find a path forward, no matte
 | Illustrator  | Photoshop    | Indesign     | Premiere Pro | After Effects|
 | :----------: | :----------: | :----------: | :----------: | :----------: |
 | ![Adobe Illustrator Icon](AI-Icon.png)       | ![Adobe Photoshop Icon](PS-Icon.png)   | ![Adobe Indesign Icon](ID-Icon.png)        | ![Adobe Premiere Pro Icon](PR-Icon.png)   | ![Adobe After Effects Icon](AE-Icon.png)        |
-| Content      | Content      | Content      | Content      | Content      |
 
 | Figma        | HTML & CSS   | JavaScript   | WordPress    | Framer       |
 | :----------: | :----------: | :----------: | :----------: | :----------: |
-| Resume       | My Website   | Email        | My Website   | Email        |
-| Content      | Content      | Content      | Content      | Content      |
+| ![Figma Icon](FI-Icon.png)       | ![HTML And CSS Icon](HC-Icon.png)   | ![JavaScript](JS-Icon.png)       | ![Wordpress Icon](WP-Icon.png)   | ![Framer Icon](FR-Icon.png)        |
 
 ### 🏆 Accolades
 
