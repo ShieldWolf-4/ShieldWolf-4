@@ -11,7 +11,7 @@ Discover my work and connect with me on these platforms!
 | My Resume | My Website  | Contact Me  |
 | :----------: | :----------: | :----------: |
 | ![Resume Icon](RE-Icon.png)     | ![Website Icon](WE-Icon.png)   | ![Email Icon](EM-Icon.png)       |
-| 🔗 [My Resume](https://framerusercontent.com/assets/BAzxM4XcfceOFF8AGCEvbvcC0JQ.pdf)    | 🔗 [My Website](https://www.randalheath.design/)      | 🔗 [Contact Me](graphics@randalheath.design)     |
+| 🔗 [My Resume](https://framerusercontent.com/assets/BAzxM4XcfceOFF8AGCEvbvcC0JQ.pdf)    | 🔗 [My Website](https://www.randalheath.design/)      | 🔗 [Contact Me](mailto:graphics@randalheath.design)     |
 
 | Behance | LinkedIn | Instagram |
 | :----------: | :----------: | :----------: |
