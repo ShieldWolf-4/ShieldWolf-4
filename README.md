@@ -25,7 +25,7 @@ Discover my work and connect with me on these platforms!
 I am a freelance graphic designer who specializes in brand, logo, and web design, among other things.
 I have a passion for all things design, and always find a path forward, no matter the circumstance.
 
-### 🤖 Software Skills
+## 🤖 Software Skills
 
 | Illustrator  | Photoshop    | Indesign     | Premiere Pro | After Effects|
 | :----------: | :----------: | :----------: | :----------: | :----------: |
@@ -35,7 +35,7 @@ I have a passion for all things design, and always find a path forward, no matte
 | :----------: | :----------: | :----------: | :----------: | :----------: |
 | ![Figma Icon](FI-Icon.png)       | ![HTML And CSS Icon](HC-Icon.png)   | ![JavaScript](JS-Icon.png)       | ![Wordpress Icon](WP-Icon.png)   | ![Framer Icon](FR-Icon.png)        |
 
-### 🏆 Accolades
+## 🏆 Accolades
 
 | ![Award Icon](AW1-Icon.png)        | ![Award Icon](AW2-Icon.png)        | ![Award Icon](AW3-Icon.png)        | ![Award Icon](AW4-Icon.png)        | ![Award Icon](AW5-Icon.png)        |
 | :----------: | :----------: | :----------: | :----------: | :----------: |
