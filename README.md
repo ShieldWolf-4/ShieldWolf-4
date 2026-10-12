@@ -1,16 +1,12 @@
-# <div align="center">Hey![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Randal Heath.</div>
+# <div align="center">Hey! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Randal Heath.</div>
 
 ### <div align="center">✍🏻Designer 🎥Video Prod. 🚀Developer</div>
 
-I am a freelance graphic designer who specializes in brand, logo, and web design, among other things.
-I have a passion for all things design, and always find a path forward, no matter the circumstance.
-
-* 🖥️  My Portfolio [RandalHeath.Design](http://randalheath.design)
-* ✉️  Contact Me [Graphics@RandalHeath.Design](mailto:Graphics@RandalHeath.Design)
-* 📍  Spokane, WA
-* 🎓  EWU '28
-
 <div align="center">
+
+## 🌐 Connect with Me
+
+Discover my work and connect with me on these platforms!
 
 | Randal Heath | Portfolio Site  | Contact Me  |
 | :----------: | :----------: | :----------: |
@@ -22,10 +18,37 @@ I have a passion for all things design, and always find a path forward, no matte
 | Behance    | LinkedIn     | Instagram   |
 | Content    | Content      | Content     |
 
-</div>
+![](https://komarev.com/ghpvc/?username=shieldwolf-4&color=grey)
 
-<p align="left"> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" alt="Illustrator" title="Illustrator" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored-dark.svg" alt="After Effects" title="After Effects" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" alt="Premiere Pro" title="Premiere Pro" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a><a href="https://framer.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" alt="Framer" title="Framer" width="36" height="36" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="MacOS" title="MacOS" width="36" height="36" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" alt="Blender" title="Blender" width="36" height="36" /></a> </p> 
- 
- ### Socials
- 
- <p align="left"> <a href="https://www.github.com/ShieldWolf-4" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/randalheath" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.behance.com/randalheath" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" alt="Behance" title="Behance" /> </picture> </a> <a href="https://www.codepen.io/ShieldWolf-4" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" alt="CodePen" title="CodePen" /> </picture> </a></p>
+## About Me
+
+I am a freelance graphic designer who specializes in brand, logo, and web design, among other things.
+I have a passion for all things design, and always find a path forward, no matter the circumstance.
+
+## Software Skills
+
+| Illustrator  | Photoshop    | Indesign     | Premiere Pro | After Effects|
+| :----------: | :----------: | :----------: | :----------: | :----------: |
+| Resume       | My Website   | Email        | My Website   | Email        |
+| Content      | Content      | Content      | Content      | Content      |
+
+| Figma        | HTML & CSS   | JavaScript   | WordPress    | Framer       |
+| :----------: | :----------: | :----------: | :----------: | :----------: |
+| Resume       | My Website   | Email        | My Website   | Email        |
+| Content      | Content      | Content      | Content      | Content      |
+
+## Accolades
+
+| Illustrator  | Photoshop    | Indesign     | Premiere Pro | After Effects|
+| :----------: | :----------: | :----------: | :----------: | :----------: |
+| Resume       | My Website   | Email        | My Website   | Email        |
+| Content      | Content      | Content      | Content      | Content      |
+
+| Figma        | HTML & CSS   | JavaScript   | WordPress    |
+| :----------: | :----------: | :----------: | :----------: |
+| Resume       | My Website   | Email        | My Website   |
+| Content      | Content      | Content      | Content      |
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=JvZQe1gLKng" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+</div>
