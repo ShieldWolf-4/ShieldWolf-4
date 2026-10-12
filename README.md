@@ -25,6 +25,8 @@ Discover my work and connect with me on these platforms!
 I am a freelance graphic designer who specializes in brand, logo, and web design, among other things.
 I have a passion for all things design, and always find a path forward, no matter the circumstance.
 
+
+
 ## 🤖 Software Skills
 
 | Illustrator  | Photoshop    | Indesign     | Premiere Pro | After Effects|
@@ -34,6 +36,8 @@ I have a passion for all things design, and always find a path forward, no matte
 | Figma        | HTML & CSS   | JavaScript   | WordPress    | Framer       |
 | :----------: | :----------: | :----------: | :----------: | :----------: |
 | ![Figma Icon](FI-Icon.png)       | ![HTML And CSS Icon](HC-Icon.png)   | ![JavaScript](JS-Icon.png)       | ![Wordpress Icon](WP-Icon.png)   | ![Framer Icon](FR-Icon.png)        |
+
+
 
 ## 🏆 Accolades
 
@@ -46,6 +50,8 @@ I have a passion for all things design, and always find a path forward, no matte
 | :----------: | :----------: | :----------: | :----------: |
 | 🗓️ 2026      | 🗓️ 2026      | 🗓️ 2026     | 🗓️ 2026      |
 | ADDY's 2026 Winner - Silver      | ADDY's 2026 Winner - Silver       | ADDY's 2026 Winner - Silver       | ADDY's 2026 Winner - Gold       |
+
+
 
 ## My Demo Reel
 
