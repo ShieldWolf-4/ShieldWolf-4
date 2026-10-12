@@ -1,4 +1,10 @@
-# <div align="center">Hey! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Randal Heath.</div>
+# <div align="center">
+
+![Image with Randal Heath's logo and profile picture.](HeroImage.png)
+
+Hey! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Randal Heath.
+
+</div>
 
 ### <div align="center">✍🏻Graphic Design 🎥Video Prod. 🚀Web Development</div>
 
