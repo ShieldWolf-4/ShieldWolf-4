@@ -59,12 +59,12 @@ I have a passion for all things design, and always find a path forward, no matte
 
 
 
-## My Demo Reel
+## 🚀 My Demo Reel
 
 [![Watch the video](https://img.youtube.com/vi/JvZQe1gLKng/maxresdefault.jpg)](https://www.youtube.com/watch?v=JvZQe1gLKng)
 
-### [Watch my demo reel on YouTube](https://www.youtube.com/watch?v=JvZQe1gLKng)
+## [Watch my demo reel on YouTube](https://www.youtube.com/watch?v=JvZQe1gLKng)
 
-## ⭐️ Let's get creative, [together!](https://www.randalheath.design/contact#contact-form)
+### ⭐️ Let's get creative, [together!](https://www.randalheath.design/contact#contact-form)
 
 </div>
